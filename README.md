@@ -17,9 +17,10 @@ $ npm install
 
 Following parameters need to be customized in main.js :
 
-apiKey : need to be setted with your apiKey value.
-secret : need to be setted with your secret key value.
-apiRTC_UserAgent_Id : need to be setted with the userId to be linked with the token. apiRTC_UserAgent_Id can be set to the value "ApiKey_Token" if you want to use the token for all your users (token will be linked to your apikey and valid for all your users)
+- apiKey : need to be setted with your apiKey value.
+- secret : need to be setted with your secret key value.
+- apiRTC_UserAgent_Id : need to be setted with the userId to be linked with the token.
+apiRTC_UserAgent_Id can be set to the value "ApiKey_Token" if you want to use the token for all your users (token will be linked to your apikey and valid for all your users)
 
 # Usage
 
