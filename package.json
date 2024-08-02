@@ -12,7 +12,7 @@
   "author": "F.Luart",
   "license": "MIT",
   "dependencies": {
-    "jsonwebtoken": "^8.5.1",
-    "uuid": "^3.3.2"
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^10.0.0"
   }
 }
